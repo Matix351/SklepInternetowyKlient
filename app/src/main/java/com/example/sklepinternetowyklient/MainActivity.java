@@ -33,8 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        //Intent nextActivity = new Intent(MainActivity.this, MMmNFOptiActivity.class);
-        //Intent nextActivity = new Intent(MainActivity.this, MainActivity2.class);
+
 
 
 
