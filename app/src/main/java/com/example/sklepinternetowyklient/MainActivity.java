@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Timer timer = new Timer();
 
         TimerTask task = new TimerTask() {
-            Intent nextActivity = new Intent(MainActivity.this, MainActivity2ShopView.class);
+            Intent nextActivity = new Intent(MainActivity.this, ShopViewActivity.class);
 
 
 
